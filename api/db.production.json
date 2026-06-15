@@ -1,0 +1,55 @@
+{
+  "categorias": [
+    {
+      "id": "Ky8I0QGcBFA",
+      "nome": "Shoppings",
+      "descricao": "Para fazer compras e passear"
+    },
+    {
+      "nome": "Praias",
+      "descricao": "Lugares para curtir o sol, areia e água",
+      "id": "NhueppmZVzk"
+    },
+    {
+      "nome": "Museus",
+      "descricao": "Lugares para reviver a história do mundo",
+      "id": "axrLUyxDDcc"
+    },
+    {
+      "nome": "Restaurantes",
+      "descricao": "Lugares para comer alimentos diversos",
+      "id": "Kwp1lpsheA0"
+    },
+    {
+      "nome": "Igrejas",
+      "descricao": "Lugares para cultuar ao Senhor Jesus Cristo",
+      "id": "yn15A4CfoD8"
+    }
+  ],
+  "lugares": [
+    {
+      "nome": "Shopping Palladium",
+      "categoria": "Shoppings",
+      "localizacao": "Curitiba",
+      "urlFoto": "https://palladiumcuritiba.com.br/wp-content/themes/tema-shoppingv2/images/hero_image_sobrenos.webp",
+      "avaliacao": "4",
+      "id": "QINj1eho-4U"
+    },
+    {
+      "nome": "Praia de Itapoá",
+      "categoria": "Praias",
+      "localizacao": "Itapoá",
+      "urlFoto": "https://cdn1.valuegaia.com.br/gaiasite/54635/media/92a279daad2b63ec2b2a2ec52eb1efff-2442827-scaled.jpg",
+      "avaliacao": "3",
+      "id": "wHe3Ge5EQjk"
+    },
+    {
+      "nome": "Alessandro & Frederico",
+      "categoria": "Restaurantes",
+      "localizacao": "Rio de Janeiro",
+      "urlFoto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/5d/96/54/ambiente.jpg?w=1000&h=600&s=1",
+      "avaliacao": "4",
+      "id": "LiRbrhixgj0"
+    }
+  ]
+}
